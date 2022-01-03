@@ -1,3 +1,3 @@
 
 
-Design by the S game jam council 2022.
+Designed by the S game jam council 2022.
