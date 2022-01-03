@@ -1,0 +1,19 @@
+I"|<h3 class="text-purple"><em>welcome to the S jam 2022</em></h3>
+
+<p><span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
+  <i class="fa fa-circle fa-stack-2x text-white"></i>
+  <i class="fa fa-gamepad fa-stack-1x text-orange"></i>
+</span></p>
+
+<h1 class="text-purple">Greatest ideas await!</h1>
+
+<p>This is our first year to not use itch.io for several reasons. We will transfer the past demos to our new page soon…</p>
+
+<p>Have some fun making gameS!</p>
+
+<p><span id="forkongithub">
+  <a href="https://github.com/t413/SinglePaged" class="bg-blue">
+    Past winners’ demo
+  </a>
+</span></p>
+:ET
