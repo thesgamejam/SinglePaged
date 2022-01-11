@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "The S Gamejam 2022"
 keywords:    "Gamejam, the s, epic"
 description: "Welcome to the S gamejam 2022!"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://www.thesgamejam.org"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
